@@ -24,11 +24,12 @@ O BookApp é um aplicativo de gerenciamento de livros, desenvolvido com KivyMD e
    Instale as dependências necessárias com os comandos: pip install kivy kivymd firebase-admin
 
 ##Estrutura do Projeto
-📄main.py           Arquivo principal do aplicativo 
 
-📄ChavePv.json      Chave do Firebase (não compartilhe publicamente)
+📄main.py           #Arquivo principal do aplicativo 
 
-📄Read.md           Arquivo de documentação
+📄ChavePv.json      #Chave do Firebase (não compartilhe publicamente)
+
+📄Read.md           #Arquivo de documentação
 
 ##Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
