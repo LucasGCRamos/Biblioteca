@@ -25,7 +25,9 @@ O BookApp é um aplicativo de gerenciamento de livros, desenvolvido com KivyMD e
 
 ##Estrutura do Projeto
 📄main.py           Arquivo principal do aplicativo 
+
 📄ChavePv.json      Chave do Firebase (não compartilhe publicamente)
+
 📄Read.md           Arquivo de documentação
 
 ##Contribuições
